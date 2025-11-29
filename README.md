@@ -1,0 +1,1 @@
+# dotnet10-agent-postgres-testcontainers-otel-jaeger_consultaprodutos
